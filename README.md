@@ -8,7 +8,7 @@ Oh... and I also love music production/Star Wars/Marvel/ and I am a casual gamer
 
 * 🌍  I'm based in Arizona 
 * ✉️  You can contact me at [ozzynevar.oa@gmail.com](mailto:ozzynevar.oa@gmail.com) 
-* 🧠  I'm learning VertX, and interested on learning frameworks that can help me become a great Back-End Dev. 
+* 🧠  I'm learning VertX toolkit for API dev, and interested on learning frameworks that can help me become a great Back-End Dev. 
 * 🤝  I'm open to collaborating on Flutter Projects so that I can become more competent on cross-platform development. 
 * ⚡  I think I can grill great BBQ...yeah, never mind that!
 
