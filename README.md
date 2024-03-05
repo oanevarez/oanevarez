@@ -6,7 +6,7 @@ Software Engineer at American Express.
 I graduated from The University of Texas at El Paso with a Bachelor of Science in Computer Science. I love coding and I am very eager to learn technologies, challenge my problem solving skills, and grow in my professional career. 
 Oh... and I also love music production/Star Wars/Marvel/ and I am a casual gamer.  
 
-* 🌍  I'm based in Arizona 
+* 🌍  I'm based in Arizona US
 * 🧠  I'm learning VertX toolkit for API dev, and interested on learning frameworks that can help me become a great Back-End Dev. 
 * 🤝  I'm open to collaborating on Flutter Projects so that I can become more competent on cross-platform development. 
 * ⚡  I think I can grill great BBQ...yeah, never mind that!
